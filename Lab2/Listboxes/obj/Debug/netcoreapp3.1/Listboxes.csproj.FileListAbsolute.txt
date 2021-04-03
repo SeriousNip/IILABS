@@ -1,0 +1,15 @@
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\bin\Debug\netcoreapp3.1\Listboxes.exe
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\bin\Debug\netcoreapp3.1\Listboxes.deps.json
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\bin\Debug\netcoreapp3.1\Listboxes.runtimeconfig.json
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\bin\Debug\netcoreapp3.1\Listboxes.runtimeconfig.dev.json
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\bin\Debug\netcoreapp3.1\Listboxes.dll
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\bin\Debug\netcoreapp3.1\Listboxes.pdb
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\obj\Debug\netcoreapp3.1\Listboxes.csprojAssemblyReference.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\obj\Debug\netcoreapp3.1\Listboxes.Form1.resources
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\obj\Debug\netcoreapp3.1\Listboxes.csproj.GenerateResource.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\obj\Debug\netcoreapp3.1\Listboxes.AssemblyInfoInputs.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\obj\Debug\netcoreapp3.1\Listboxes.AssemblyInfo.cs
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\obj\Debug\netcoreapp3.1\Listboxes.csproj.CoreCompileInputs.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\obj\Debug\netcoreapp3.1\Listboxes.dll
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\obj\Debug\netcoreapp3.1\Listboxes.pdb
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\Listboxes\obj\Debug\netcoreapp3.1\Listboxes.genruntimeconfig.cache

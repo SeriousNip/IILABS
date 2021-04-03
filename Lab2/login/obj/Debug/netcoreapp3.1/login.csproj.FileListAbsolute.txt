@@ -1,0 +1,16 @@
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\bin\Debug\netcoreapp3.1\login.exe
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\bin\Debug\netcoreapp3.1\login.deps.json
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.json
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.dev.json
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\bin\Debug\netcoreapp3.1\login.dll
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\bin\Debug\netcoreapp3.1\login.pdb
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\obj\Debug\netcoreapp3.1\login.csprojAssemblyReference.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\obj\Debug\netcoreapp3.1\login.Form1.resources
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\obj\Debug\netcoreapp3.1\login.Form2.resources
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\obj\Debug\netcoreapp3.1\login.csproj.GenerateResource.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\obj\Debug\netcoreapp3.1\login.AssemblyInfoInputs.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\obj\Debug\netcoreapp3.1\login.AssemblyInfo.cs
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\obj\Debug\netcoreapp3.1\login.csproj.CoreCompileInputs.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\obj\Debug\netcoreapp3.1\login.dll
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\obj\Debug\netcoreapp3.1\login.pdb
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\login\obj\Debug\netcoreapp3.1\login.genruntimeconfig.cache

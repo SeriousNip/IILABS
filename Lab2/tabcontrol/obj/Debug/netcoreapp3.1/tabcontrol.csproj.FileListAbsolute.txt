@@ -1,0 +1,16 @@
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\bin\Debug\netcoreapp3.1\tabcontrol.exe
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\bin\Debug\netcoreapp3.1\tabcontrol.deps.json
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\bin\Debug\netcoreapp3.1\tabcontrol.runtimeconfig.json
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\bin\Debug\netcoreapp3.1\tabcontrol.runtimeconfig.dev.json
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\bin\Debug\netcoreapp3.1\tabcontrol.dll
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\bin\Debug\netcoreapp3.1\tabcontrol.pdb
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\obj\Debug\netcoreapp3.1\tabcontrol.csprojAssemblyReference.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\obj\Debug\netcoreapp3.1\tabcontrol.Form1.resources
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\obj\Debug\netcoreapp3.1\tabcontrol.Properties.Resources.resources
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\obj\Debug\netcoreapp3.1\tabcontrol.csproj.GenerateResource.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\obj\Debug\netcoreapp3.1\tabcontrol.AssemblyInfoInputs.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\obj\Debug\netcoreapp3.1\tabcontrol.AssemblyInfo.cs
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\obj\Debug\netcoreapp3.1\tabcontrol.csproj.CoreCompileInputs.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\obj\Debug\netcoreapp3.1\tabcontrol.dll
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\obj\Debug\netcoreapp3.1\tabcontrol.pdb
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab2\tabcontrol\obj\Debug\netcoreapp3.1\tabcontrol.genruntimeconfig.cache
