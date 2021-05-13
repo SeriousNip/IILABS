@@ -1,0 +1,7 @@
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuConsolaVietzii\bin\Debug\ClientuAlaBlanaCuConsolaVietzii.exe.config
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuConsolaVietzii\bin\Debug\ClientuAlaBlanaCuConsolaVietzii.exe
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuConsolaVietzii\bin\Debug\ClientuAlaBlanaCuConsolaVietzii.pdb
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuConsolaVietzii\obj\Debug\ClientuAlaBlanaCuConsolaVietzii.csprojAssemblyReference.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuConsolaVietzii\obj\Debug\ClientuAlaBlanaCuConsolaVietzii.csproj.CoreCompileInputs.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuConsolaVietzii\obj\Debug\ClientuAlaBlanaCuConsolaVietzii.exe
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuConsolaVietzii\obj\Debug\ClientuAlaBlanaCuConsolaVietzii.pdb

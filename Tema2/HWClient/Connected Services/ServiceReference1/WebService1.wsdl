@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="getAllNames">
+        <s:complexType />
+      </s:element>
+      <s:element name="getAllNamesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getAllNamesResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="getAllPrices">
+        <s:complexType />
+      </s:element>
+      <s:element name="getAllPricesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getAllPricesResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addItem">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="name" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="price" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addItemResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="updatePrice">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="name" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="price" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="updatePriceResponse">
+        <s:complexType />
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="getAllNamesSoapIn">
+    <wsdl:part name="parameters" element="tns:getAllNames" />
+  </wsdl:message>
+  <wsdl:message name="getAllNamesSoapOut">
+    <wsdl:part name="parameters" element="tns:getAllNamesResponse" />
+  </wsdl:message>
+  <wsdl:message name="getAllPricesSoapIn">
+    <wsdl:part name="parameters" element="tns:getAllPrices" />
+  </wsdl:message>
+  <wsdl:message name="getAllPricesSoapOut">
+    <wsdl:part name="parameters" element="tns:getAllPricesResponse" />
+  </wsdl:message>
+  <wsdl:message name="addItemSoapIn">
+    <wsdl:part name="parameters" element="tns:addItem" />
+  </wsdl:message>
+  <wsdl:message name="addItemSoapOut">
+    <wsdl:part name="parameters" element="tns:addItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="updatePriceSoapIn">
+    <wsdl:part name="parameters" element="tns:updatePrice" />
+  </wsdl:message>
+  <wsdl:message name="updatePriceSoapOut">
+    <wsdl:part name="parameters" element="tns:updatePriceResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WebService1Soap">
+    <wsdl:operation name="getAllNames">
+      <wsdl:input message="tns:getAllNamesSoapIn" />
+      <wsdl:output message="tns:getAllNamesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getAllPrices">
+      <wsdl:input message="tns:getAllPricesSoapIn" />
+      <wsdl:output message="tns:getAllPricesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="addItem">
+      <wsdl:input message="tns:addItemSoapIn" />
+      <wsdl:output message="tns:addItemSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="updatePrice">
+      <wsdl:input message="tns:updatePriceSoapIn" />
+      <wsdl:output message="tns:updatePriceSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebService1Soap" type="tns:WebService1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getAllNames">
+      <soap:operation soapAction="http://tempuri.org/getAllNames" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getAllPrices">
+      <soap:operation soapAction="http://tempuri.org/getAllPrices" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addItem">
+      <soap:operation soapAction="http://tempuri.org/addItem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updatePrice">
+      <soap:operation soapAction="http://tempuri.org/updatePrice" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebService1Soap12" type="tns:WebService1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getAllNames">
+      <soap12:operation soapAction="http://tempuri.org/getAllNames" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getAllPrices">
+      <soap12:operation soapAction="http://tempuri.org/getAllPrices" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addItem">
+      <soap12:operation soapAction="http://tempuri.org/addItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updatePrice">
+      <soap12:operation soapAction="http://tempuri.org/updatePrice" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebService1">
+    <wsdl:port name="WebService1Soap" binding="tns:WebService1Soap">
+      <soap:address location="https://localhost:44385/WebService1.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WebService1Soap12" binding="tns:WebService1Soap12">
+      <soap12:address location="https://localhost:44385/WebService1.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

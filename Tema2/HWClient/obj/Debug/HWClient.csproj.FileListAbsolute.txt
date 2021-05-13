@@ -1,0 +1,11 @@
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Tema2\HWClient\bin\Debug\HWClient.exe.config
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Tema2\HWClient\bin\Debug\HWClient.exe
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Tema2\HWClient\bin\Debug\HWClient.pdb
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Tema2\HWClient\obj\Debug\HWClient.csprojAssemblyReference.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Tema2\HWClient\obj\Debug\HWClient.Form1.resources
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Tema2\HWClient\obj\Debug\HWClient.Properties.Resources.resources
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Tema2\HWClient\obj\Debug\HWClient.csproj.GenerateResource.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Tema2\HWClient\obj\Debug\HWClient.csproj.CoreCompileInputs.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Tema2\HWClient\obj\Debug\HWClient.exe
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Tema2\HWClient\obj\Debug\HWClient.pdb
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Tema2\HWClient\obj\Debug\HWClient.Form2.resources

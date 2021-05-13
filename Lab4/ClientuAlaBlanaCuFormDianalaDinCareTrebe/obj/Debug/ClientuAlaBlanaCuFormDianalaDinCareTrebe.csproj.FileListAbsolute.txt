@@ -1,0 +1,10 @@
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuFormDianalaDinCareTrebe\bin\Debug\ClientuAlaBlanaCuFormDianalaDinCareTrebe.exe.config
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuFormDianalaDinCareTrebe\bin\Debug\ClientuAlaBlanaCuFormDianalaDinCareTrebe.exe
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuFormDianalaDinCareTrebe\bin\Debug\ClientuAlaBlanaCuFormDianalaDinCareTrebe.pdb
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuFormDianalaDinCareTrebe\obj\Debug\ClientuAlaBlanaCuFormDianalaDinCareTrebe.csprojAssemblyReference.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuFormDianalaDinCareTrebe\obj\Debug\ClientuAlaBlanaCuFormDianalaDinCareTrebe.Form1.resources
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuFormDianalaDinCareTrebe\obj\Debug\ClientuAlaBlanaCuFormDianalaDinCareTrebe.Properties.Resources.resources
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuFormDianalaDinCareTrebe\obj\Debug\ClientuAlaBlanaCuFormDianalaDinCareTrebe.csproj.GenerateResource.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuFormDianalaDinCareTrebe\obj\Debug\ClientuAlaBlanaCuFormDianalaDinCareTrebe.csproj.CoreCompileInputs.cache
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuFormDianalaDinCareTrebe\obj\Debug\ClientuAlaBlanaCuFormDianalaDinCareTrebe.exe
+D:\Faculta\An3Sem2\Industr. Informatic\IILABS\Lab4\ClientuAlaBlanaCuFormDianalaDinCareTrebe\obj\Debug\ClientuAlaBlanaCuFormDianalaDinCareTrebe.pdb
